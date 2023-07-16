@@ -7,7 +7,7 @@ This 3-course Specialization will help you gain core cybersecurity skills needed
 ## Applied Learning Project
 Learn to troubleshoots  network security problems, monitor alerts, and follow policies, procedures, and standards to protect information assets. You will gain practical skills cybersecurity professionals need in Information Security, Network Security, Computer Forensics, Risk Management, Incident Handling, and the industry best practices.     
 
-## There are 3 Courses in this Specialization
+There are 3 Courses in this Specialization
 
 ## COURSE 1 Ethical Hacking Essentials (EHE)
 
